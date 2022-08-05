@@ -1,0 +1,13 @@
+# Target labels
+ edge_impulse_project
+# Source files and their labels
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/modules/nrf/lib/edge_impulse/CMakeFiles/edge_impulse_project
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/modules/nrf/lib/edge_impulse/CMakeFiles/edge_impulse_project.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/modules/nrf/lib/edge_impulse/CMakeFiles/edge_impulse_project-complete.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-stamp/edge_impulse_project-build.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-stamp/edge_impulse_project-configure.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-stamp/edge_impulse_project-download.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-stamp/edge_impulse_project-install.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-stamp/edge_impulse_project-mkdir.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-stamp/edge_impulse_project-patch.rule
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-stamp/edge_impulse_project-update.rule

@@ -1,0 +1,5 @@
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-build/CMakeFiles/rebuild_cache.dir
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-build/CMakeFiles/edit_cache.dir
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-build/CMakeFiles/app.dir
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-build/edge-impulse-sdk/cmake/zephyr/CMakeFiles/rebuild_cache.dir
+/home/inventeaza/nordic_basic_application/wrapper_tutorial/build_2/edge_impulse/src/edge_impulse_project-build/edge-impulse-sdk/cmake/zephyr/CMakeFiles/edit_cache.dir

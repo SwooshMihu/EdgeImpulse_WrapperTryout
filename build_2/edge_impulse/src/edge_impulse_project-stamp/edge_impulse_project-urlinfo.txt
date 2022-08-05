@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/inventeaza/nordic_basic_application/wrapper_tutorial/tutorial_-continuous-motion-recognition-v74.zip'
+tag=''
